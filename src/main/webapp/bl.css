@@ -1,0 +1,28 @@
+h2
+{
+	text-align:center;
+	color:green;
+}
+
+
+
+table,td,tr,th
+{
+	border:2px solid #80ff80;
+	margin:auto;
+	padding: 8px;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+#a1{
+	margin-top:25px;
+	text-decoration: none;
+	display:block;
+	text-align: center;
+	font-size:20px;
+	color:blue;
+}
